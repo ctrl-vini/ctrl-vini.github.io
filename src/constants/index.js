@@ -301,7 +301,7 @@ export const reviews = [
   {
     name: "Bruno Lucas",
     username: "Desenvolvedor @Canix",
-    body: "Muito salafrário, presta pra nada",
+    body: "Vinícius é um ativo inestimável para a equipe. Sua dedicação, esforço e talento fazem dele um profissional exemplar.",
     img: "assets/colleagues/brunolucas.jpg",
     url: "https://www.linkedin.com/in/brunolucasdev/",
   },
