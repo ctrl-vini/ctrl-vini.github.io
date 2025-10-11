@@ -308,7 +308,7 @@ export const reviews = [
   {
     name: "Caio Ferreira",
     username: "Desenvolvedor @IART",
-    body: "",
+    body: "Vinicius é um líder inspirador, que conduz com empatia, firmeza e clareza. Enfrenta desafios com estratégia e transforma problemas em oportunidades. Valoriza a equipe, promove colaboração e motiva todos a darem o melhor de si.",
     img: "assets/colleagues/caioferreira.jpg",
     url: "https://www.linkedin.com/in/devcaioferreira/",
   },
