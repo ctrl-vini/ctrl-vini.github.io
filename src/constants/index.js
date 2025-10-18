@@ -312,32 +312,4 @@ export const reviews = [
     img: "assets/colleagues/caioferreira.jpg",
     url: "https://www.linkedin.com/in/devcaioferreira/",
   },
-  {
-    name: "Daniel Cavalcante",
-    username: "Founder & Mentor @Dev Internacional",
-    body: "",
-    img: "assets/colleagues/danielcavalcante.jpg",
-    url: "https://www.linkedin.com/in/danielsacavalcante/",
-  },
-  {
-    name: "Mariana Mavila",
-    username: "Founder @Mavila Consulting",
-    body: "",
-    img: "assets/colleagues/marianamavila.jpg",
-    url: "https://www.linkedin.com/in/mariana-mavila/",
-  },
-  {
-    name: "Augusto Peixoto",
-    username: "Diretor @IFCE",
-    body: "",
-    img: "assets/colleagues/augustopeixoto.jpg",
-    url: "https://www.instagram.com/prof.augustopeixoto/",
-  },
-  {
-    name: "Arruda Junior",
-    username: "Assistente de Automações @Profectum",
-    body: "",
-    img: "assets/colleagues/arrudajunior.jpg",
-    url: "https://www.linkedin.com/in/arrudajunior/",
-  },
 ];
