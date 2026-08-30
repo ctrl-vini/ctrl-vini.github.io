@@ -16,7 +16,7 @@ const Footer = () => {
           </a>
         ))}
       </div>
-      <p>© 2025 Vinicius Alves. Todos os direitos reservados.</p>
+      <p>© 2026 Vinicius Alves. Todos os direitos reservados.</p>
     </section>
   );
 };
