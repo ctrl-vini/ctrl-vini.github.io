@@ -49,4 +49,4 @@ Dúvidas gerais ou mensagens respeitosas podem ser enviadas via [LinkedIn](https
 
 Este projeto é de **uso pessoal e expositivo**.
 
-© 2025 [Vinicius Alves]. Todos os direitos reservados.
+© 2026 [Vinicius Alves]. Todos os direitos reservados.
