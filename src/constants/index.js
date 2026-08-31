@@ -18,8 +18,9 @@ export const mySocials = [
 
 export const experiences = [
   {
-    title: "Desenvolvedor Full-Stack",
-    job: "Instituto Iracema (via IART)",
+    title: "Desenvolvedor FullStack",
+    job: "Instituto Iracema\n(via IART)",
+    jobUrl: "https://institutoiracema.org.br/pt/",
     date: "2023-2025",
     contents: [
       "Desenvolvi soluções web e mobile end-to-end, atuando do levantamento de requisitos ao deploy.",
@@ -35,6 +36,7 @@ export const experiences = [
   {
     title: "Tech Recruiter",
     job: "Mavila Consulting",
+    jobUrl: "https://www.linkedin.com/company/mavila-consulting/",
     date: "2025",
     contents: [
       "Conduzi sourcing e prospecção no LinkedIn, buscando talentos em vários países e fusos horários.",
@@ -44,7 +46,8 @@ export const experiences = [
   },
   {
     title: "Líder Técnico de Desenvolvimento",
-    job: "CATEC Soluções (via IART)",
+    job: "CATEC Soluções\n(via IART)",
+    jobUrl: "https://catecsolucoes.com.br/",
     date: "2025-Presente",
     contents: [
       "Liderei times do ecossistema Gestão Una / TonôMEI, plataforma SaaS multi-tenant para MEI, sendo responsável técnico pelo aplicativo Flutter (Android e iOS) em Clean Architecture modular com BLoC/Cubit.",
